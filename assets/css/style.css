@@ -5,35 +5,63 @@
 .name {color:white;
 	background-color:#4aaaa5;
 	padding:20px;
+	margin:0px;
 	float:left;
 
 }
 
-
-.about {
-	color:#4aaaa5;
+.links{
+background-color:pink;
+text-align:;
 
 }
 
 
 .container {
-	background-image:url("assets/images/cheap_diagonal_fabric.png");
-background-color:orange;
+
 width:960px;
+border-top: 1.5px solid #dddddd;
+border-bottom: 4px solid #4aaaa5 ;
+}
+
+
+.about {
+	color:#4aaaa5;
+	padding-left:10px;
 
 }
+
+
+
 
 
 .about_box{
-background-color:white;
+background-color:#ffffff;
 height:200px;
-width:400px;
+width:300px;
+border: 1px solid #dddddd;
+
+
+}
+
+.connect_box{
+	background-color:#ffffff;
+	height:110px;
+	width:130px;
+	border: 1px solid #dddddd;
+	
+}
+
+
+
+
+#bio-image{
+	float:left;
 
 }
 
 
 
-section{}
 
 
 header {width:960px;
@@ -41,8 +69,12 @@ header {width:960px;
 
 	}
 
+body {
+	background-image:url("assets/images/cheap_diagonal_fabric.png");
 
+}
                                                 
+
 
 
 
@@ -76,10 +108,13 @@ font-family:'Arial','Helvetica Neue', Helvetica, sans-serif;
 
 
 footer{
+	clear:both;
 	font-family:'Arial','Helvetica Neue', Helvetica, sans-serif;
 	font-size:10px;
-	color:#777777;
 	background-color:#666666;
+	padding:15px;
+	text-align:center;
+
 
 }
 
