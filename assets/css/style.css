@@ -40,6 +40,11 @@ background-color:#ffffff;
 height:200px;
 width:300px;
 border: 1px solid #dddddd;
+float:left;
+
+
+
+
 
 
 }
@@ -49,7 +54,7 @@ border: 1px solid #dddddd;
 	height:110px;
 	width:130px;
 	border: 1px solid #dddddd;
-	
+
 }
 
 
@@ -59,6 +64,50 @@ border: 1px solid #dddddd;
 	float:left;
 
 }
+
+
+.contact {
+	color:#4aaaa5;
+	padding-left:10px;
+
+}
+
+
+
+
+
+.contact_box{
+background-color:#ffffff;
+height:200px;
+width:300px;
+border: 1px solid #dddddd;
+
+
+
+
+}
+
+.portfolio {
+	color:#4aaaa5;
+	padding-left:10px;
+
+}
+
+
+
+
+
+.portfolio_box
+{
+background-color:#ffffff;
+height:1000px;
+width:500px;
+border: 1px solid #dddddd;
+
+}
+
+
+
 
 
 
